@@ -18,11 +18,11 @@
       key: "others1",
       children: [
         {
-          label: "乔丹·贝克",
+          label: "乔丹·贝克1",
           key: "jordan baker"
         },
         {
-          label: "汤姆·布坎南",
+          label: "汤姆·布坎南1",
           key: "tom buchanan"
         }
       ]
@@ -74,11 +74,11 @@
       key: "others4",
       children: [
         {
-          label: "乔丹·贝克",
+          label: "乔丹·贝克2",
           key: "jordan baker"
         },
         {
-          label: "汤姆·布坎南",
+          label: "汤姆·布坎南2",
           key: "tom buchanan"
         }
       ]

@@ -1,8 +1,13 @@
 {
   "setupTasks": ["cd naive-ui-2-39", "npm install"],
   "tasks": {
+      "npm-install": {
+        "name": "Install Dependencies",
+        "command": "cd naive-ui-2-39 && npm run dev",
+        "runAtStart": true
+      }
       "start-app": {
-        "name": "cd naive-ui-2-39 && npm run dev",
+        "name": "Run Dev Server",
         "command": "cd naive-ui-2-39 && npm run dev",
         "runAtStart": true
       }

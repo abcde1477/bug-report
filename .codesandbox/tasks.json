@@ -3,7 +3,7 @@
   "tasks": {
       "npm-install": {
         "name": "Install Dependencies",
-        "command": "cd naive-ui-2-39 && npm run dev",
+        "command": "npm install",
         "runAtStart": true
       },
       "start-app": {

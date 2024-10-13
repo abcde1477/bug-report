@@ -5,7 +5,7 @@
         "name": "Install Dependencies",
         "command": "cd naive-ui-2-39 && npm run dev",
         "runAtStart": true
-      }
+      },
       "start-app": {
         "name": "Run Dev Server",
         "command": "cd naive-ui-2-39 && npm run dev",

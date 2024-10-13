@@ -1,13 +1,7 @@
 {
     // These tasks will run in order when initializing your CodeSandbox project.
-    "setupTasks": [
-      {
-        "command": "cd naive-ui-2-39 && npm install",
-        "name": "cd naive-ui-2-39 && npm install"
-      }
-    ],
-    // These tasks can be run from CodeSandbox. Running one will open a log in the app.
-    "tasks": {
+  "setupTasks": ["cd naive-ui-2-39", "npm install"],
+  "tasks": {
       "start-app": {
         "name": "cd naive-ui-2-39 && npm run dev",
         "command": "cd naive-ui-2-39 && npm run dev",

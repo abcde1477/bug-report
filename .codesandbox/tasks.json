@@ -1,5 +1,5 @@
 {
-  "setupTasks": ["cd naive-ui-2-39", "npm install"],
+  "setupTasks": ["cd naive-ui-2-39 && npm install"],
   "tasks": {
       "npm-install": {
         "name": "Install Dependencies",
